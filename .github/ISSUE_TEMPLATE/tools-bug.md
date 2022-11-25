@@ -1,6 +1,6 @@
 ---
 name: 工具有问题 bug-full in tools
-about: .
+about: bugs there in tools
 title: ''
 labels: 'tools-bug'
 assignees: kdXiaoyi
